@@ -21,9 +21,9 @@
 
 ## Choose one of the cooking Options:
 
-1. BBQ:
+- BBQ:
    - Barbecue salmon until done (thickest part is just flaky).
-2. Oven:
+- Oven:
   - Line an oven-safe dish with parchment. Place salmon skin-side down.
   - Pour a couple tablespoons of marinade over salmon.
   - Bake in an oven at 350F for about 25 minutes, until done.
