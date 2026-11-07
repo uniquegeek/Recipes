@@ -2,11 +2,11 @@
 *Transciber: uniquegeek*
 
 ## Mocha sauce:
-| ½ cup	Cocoa powder |
-| 1 cup	Sugar |
-| 1 cup	Brown sugar |
-| 6 tbsp	flour |
-| 4 cups	Hot coffee |
+| ½ cup |	Cocoa powder |
+| 1 cup	| Sugar |
+| 1 cup	| Brown sugar |
+| 6 tbsp | flour |
+| 4 cups | Hot coffee |
 
 1. In a saucepan, mix together dry ingredients.
 2. Add small amount of cooled coffee to dry ingredients to make a thin paste.
