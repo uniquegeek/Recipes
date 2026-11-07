@@ -2,6 +2,8 @@
 *Transciber: uniquegeek*
 
 ## Mocha sauce:
+| amount | ingredient |
+| --- | --- |
 | ½ cup |	Cocoa powder |
 | 1 cup	| Sugar |
 | 1 cup	| Brown sugar |
