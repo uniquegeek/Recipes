@@ -17,7 +17,7 @@
 
 ## Marinade:
 - Mix ingredients, marinade salmon 2-12 hours.
-- Reserve marinade separately for sauce.
+- Reserve marinade for making a sauce.
 
 ## Choose one of the cooking Options:
 
