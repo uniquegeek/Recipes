@@ -22,6 +22,8 @@
 ## Choose one of the cooking Options:
 
 - BBQ:
+   - Preheat barbecue.
+   - Place salmon skin side down over indirect heat.
    - Barbecue salmon until done (thickest part is just flaky).
 - Oven:
   - Line an oven-safe dish with parchment. Place salmon skin-side down.
